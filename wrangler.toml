@@ -1,23 +1,17 @@
-name = "redirect"
+name = "redirect31"
 main = "_worker.js"
 compatibility_date = "2024-09-23"
 compatibility_flags = ["nodejs_compat_v2"]
 workers_dev = true
 routes = [
 
-  { pattern = "balckwolf.dpdns.org", custom_domain = true },
-  { pattern = "df.game.naver.com.balckwolf.dpdns.org", custom_domain = true },
-  { pattern = "ava.game.naver.com.balckwolf.dpdns.org", custom_domain = true },
-  { pattern = "demo.appsflyer.com.balckwolf.dpdns.org", custom_domain = true },
-  { pattern = "quiz.int.vidio.com.balckwolf.dpdns.org", custom_domain = true },
-  { pattern = "graph.instagram.com.balckwolf.dpdns.org", custom_domain = true },
-  { pattern = "blog.webex.com.balckwolf.dpdns.org", custom_domain = true },
-  { pattern = "zaintest.vuclip.com.balckwolf.dpdns.org", custom_domain = true },
-  { pattern = "bimbel.ruangguru.com.balckwolf.dpdns.org", custom_domain = true },
-  { pattern = "support.zoom.us.balckwolf.dpdns.org", custom_domain = true },
-  { pattern = "cache.netflix.com.balckwolf.dpdns.org", custom_domain = true },
-  { pattern = "investor.fb.com.balckwolf.dpdns.org", custom_domain = true },
-  { pattern = "nontontv.vidio.com.balckwolf.dpdns.org", custom_domain = true },
-  { pattern = "blog.clova.line.me.balckwolf.dpdns.org", custom_domain = true },
+  { pattern = "xinquins.biz.id", custom_domain = true },
+  { pattern = "df.game.naver.com.xinquins.biz.id", custom_domain = true },
+
 ]
 
+[unsafe.metadata.observability]
+enabled = true
+
+[observability.logs]
+enabled = true
