@@ -21,7 +21,3 @@ routes = [
   { pattern = "blog.clova.line.me.balckwolf.dpdns.org", custom_domain = true },
 ]
 
-[unsafe.metadata.observability]
-enabled = true
-
-[observability.logs]
