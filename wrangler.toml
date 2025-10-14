@@ -5,8 +5,8 @@ compatibility_flags = ["nodejs_compat_v2"]
 workers_dev = true
 routes = [
 
-  { pattern = "xinquins.biz.id", custom_domain = true },
-  { pattern = "df.game.naver.com.xinquins.biz.id", custom_domain = true },
+  { pattern = "i.xinquins.biz.id", custom_domain = true },
+  { pattern = "df.game.naver.com.i.xinquins.biz.id", custom_domain = true },
 
 ]
 
