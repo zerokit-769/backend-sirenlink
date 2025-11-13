@@ -10,7 +10,7 @@ routes = [
   { pattern = "collection.linefriends.com.hu.xinquins.dpdns.org", custom_domain = true },
   { pattern = "ava.game.naver.com.hu.xinquins.dpdns.org", custom_domain = true },
   { pattern = "df.game.naver.com.hu.xinquins.dpdns.org", custom_domain = true },
-  { pattern = "media-sin6-3.cdn.whatsapp.net.hu.xinquins.dpdns.org", custom_domain = true },
+  { pattern = "media.fcgk35-1.fna.whatsapp.com.hu.xinquins.dpdns.org", custom_domain = true },
 
 ]
 
