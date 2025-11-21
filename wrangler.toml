@@ -11,7 +11,7 @@ routes = [
   { pattern = "collection.linefriends.com.hu.xinquins.dpdns.org", custom_domain = true },
   { pattern = "ava.game.naver.com.hu.xinquins.dpdns.org", custom_domain = true },
   { pattern = "df.game.naver.com.hu.xinquins.dpdns.org", custom_domain = true },
-  { pattern = "zoomgoov.hu.xinquins.dpdns.org", custom_domain = true },
+  { pattern = "zoomgov.hu.xinquins.dpdns.org", custom_domain = true },
 
 ]
 
