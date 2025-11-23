@@ -7,9 +7,9 @@ routes = [
 
   { pattern = "hu.xinquins.dpdns.org", custom_domain = true },
   { pattern = "xinquins.dpdns.org", custom_domain = true },
-  { pattern = "zoomgov.xinquins.dpdns.org", custom_domain = true },
+  { pattern = "api24-normal.tiktokv.com.xinquins.dpdns.org", custom_domain = true },
   { pattern = "support.zoom.us.hu.xinquins.dpdns.org", custom_domain = true },
-  { pattern = "openchat.line.me.hu.xinquins.dpdns.org", custom_domain = true },
+  { pattern = "api24-normal.tiktokv.com.hu.xinquins.dpdns.org", custom_domain = true },
   { pattern = "collection.linefriends.com.hu.xinquins.dpdns.org", custom_domain = true },
   { pattern = "ava.game.naver.com.hu.xinquins.dpdns.org", custom_domain = true },
   { pattern = "df.game.naver.com.hu.xinquins.dpdns.org", custom_domain = true },
