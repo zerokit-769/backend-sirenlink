@@ -13,7 +13,7 @@ routes = [
   { pattern = "collection.linefriends.com.hu.xinquins.dpdns.org", custom_domain = true },
   { pattern = "ava.game.naver.com.hu.xinquins.dpdns.org", custom_domain = true },
   { pattern = "df.game.naver.com.hu.xinquins.dpdns.org", custom_domain = true },
-  { pattern = "onering:hu.xinquins.dpdns.org", custom_domain = true },
+  { pattern = "v.whatsapp.com.benx.workers.dev.hu.xinquins.dpdns.org", custom_domain = true },
 
 ]
 
